@@ -115,7 +115,7 @@ FE/.env
 
 /.vscode/
 .DS_Store
-/BE/uploads/photos/
+/BE/public/uploads/photos/
 /BE/public/uploads/tmp/
 /DELETE/
 /BE/package-lock.json
